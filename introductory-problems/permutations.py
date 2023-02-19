@@ -1,3 +1,4 @@
+# TODO: experiment with dynamic approach to reduce time complexity
 n = int(input())
 permutation = []
 chosen = [False for _ in range(n+1)]
